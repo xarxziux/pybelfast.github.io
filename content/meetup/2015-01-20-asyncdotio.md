@@ -1,8 +1,6 @@
----
-layout: post
-title:  "async.io"
-categories: meetup async 
----
+Title: async.io
+Date: 2015-01-20
+Category: Meetup
 
 ### Venue
 

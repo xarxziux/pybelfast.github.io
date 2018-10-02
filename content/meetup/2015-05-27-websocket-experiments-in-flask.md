@@ -1,8 +1,6 @@
----
-layout: post
-title:  "Websocket experiments in Flask"
-categories: flask websockets 
----
+Title: Websocket experiments in Flask
+Date: 2015-05-27
+Category: Meetup
 
 ### Venue
 
@@ -10,5 +8,5 @@ categories: flask websockets
 
 ### Talks
 
-#### Websocket experiments in Falsk 
+#### Websocket experiments in Flask
 [Ryan Grieve](https://twitter.com/thegrieve) gave a talk on Websocket experiments in Flask. Unfortunately we can't find any links on this talk.
