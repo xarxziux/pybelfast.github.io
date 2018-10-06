@@ -1,6 +1,7 @@
 Title: Django v Rails & extending Python
 Date: 2016-10-26
 Category: Meetup
+Slug: django_v_rails
 
 ### Venue
 

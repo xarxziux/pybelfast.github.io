@@ -1,6 +1,7 @@
 Title: factory_boy, behave & click
 Date: 2016-01-20
 Category: Meetup
+Slug: factory_boy
 
 ### Venue
 

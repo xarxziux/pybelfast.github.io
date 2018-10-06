@@ -1,6 +1,7 @@
 Title: async.io
 Date: 2015-01-20
 Category: Meetup
+Slug: asyncio
 
 ### Venue
 

@@ -1,6 +1,7 @@
 Title: Alexa and Python - AWS Lambda & Property Testing
 Date: 2017-02-21
 Category: Meetup
+Slug: alexa_python
 
 ### Venue
 

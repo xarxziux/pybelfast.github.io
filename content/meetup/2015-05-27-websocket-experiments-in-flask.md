@@ -1,6 +1,7 @@
 Title: Websocket experiments in Flask
 Date: 2015-05-27
 Category: Meetup
+Slug: websockets
 
 ### Venue
 
